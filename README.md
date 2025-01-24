@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to unclosed paragraph tags within dynamically generated content using innerHTML. The bug.html file showcases the problematic code, leading to validation errors and potential layout inconsistencies. The solution.html file provides a corrected version using DOM manipulation for safer and more robust content insertion.
